@@ -1,9 +1,5 @@
 # MyTheDogAPI
 
-
-# MyTheDogAPI
-
-
 This is my open API project "MyTheCatAPI". 
 
 
